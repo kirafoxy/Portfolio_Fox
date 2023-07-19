@@ -1,7 +1,6 @@
 .projects__container{
     color: #ffffff;
-    /* min-width: 1400px;
-     */
+
     
 }
 .projects__title{
@@ -15,11 +14,11 @@
 }
 .project__img{
     position: relative;
-    width: 1150px;
-    height: 550px;
     border-radius: 30px;
     background-repeat: no-repeat;
     background-size: cover;
+    width: 1150px;
+    height: 550px;
 }
 .projects__img-title{
     position: absolute;
@@ -29,6 +28,16 @@
     font-size: 35px;
     line-height: 45.5px;
     letter-spacing: -1.05px;
+}
+.project__img-one{
+    background-image:url(../images/RealHome.png) ;
+}
+.project__img-two{
+    background-image:url(../images/Glass.png) ;
+}
+.project__img-three{
+    
+    background-image:url(../images/Fesiyen.png) ;
 }
 .projects__img-text{
     position: absolute;
