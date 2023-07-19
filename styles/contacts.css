@@ -1,0 +1,46 @@
+.container-wrapper{
+    display: flex;
+    
+} 
+.contacts__title{
+    margin-bottom: 28px;
+    font-size: 35px;
+    line-height: 60px; 
+    letter-spacing: -1.05px;
+}
+
+.container-wrapper-text{
+    margin-top: 200px;
+    width: 310px;
+    height: 308px;
+}
+.contacts__link{
+    /* display: block; */
+    color: #FFF;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+}
+.instagram__contact{
+    display: block;
+    margin-bottom: 18px;
+}
+.telegram__contact{
+    display: block;
+    margin-bottom: 18px;
+}
+.contacts__link:hover{
+  border-bottom: 1px solid #fff;
+  opacity: 0.5;
+    
+}
+.contacts__GifFox{
+    margin-top: 70px;
+    margin-left: 309px;
+    float: right;
+    display: block;
+    width: 600px;
+    height: 600px;
+
+} 
+

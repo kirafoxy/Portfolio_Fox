@@ -1,0 +1,31 @@
+.competence__img{
+    Width:750px;
+    margin-bottom: 120px;
+    border-radius: 40px;
+    padding: 5px 350px 15px 40px ;
+    -webkit-box-shadow: 0 0 20px #555555;
+    
+}
+.competence__img-title{
+    margin-bottom: 15px;
+    padding-left: 10px;
+    color:  #f96306;
+    height: 46px;
+    line-height: 46px;
+    
+}
+
+.competence__img-text{
+    display: block;
+    width: 778px;
+    font-size: 22px;
+    line-height: 28.6px;
+    letter-spacing: -0.66px;
+
+   
+}
+.competencies h2{
+    margin-bottom: 104px;
+}
+
+

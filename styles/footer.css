@@ -1,0 +1,30 @@
+.footer__fon{
+    margin: 0 auto;
+    position: relative;
+    background-image: url(../images/WhiteFon.png);
+    width: 100%;
+    min-width: 1400px;
+    height: 225px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: black;
+}
+.footer__title{
+    position: absolute;
+    top: 76px;
+    left: 125px;
+    color: #000;
+    font-size: 22px;
+    line-height:30.05px;
+    letter-spacing: -0.66px;
+}
+.footer__text{
+    position: absolute;
+    top: 172px;
+    left: 125px;
+    color: #000;
+    opacity: 0.5;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    line-height: 27.23px;
+}
